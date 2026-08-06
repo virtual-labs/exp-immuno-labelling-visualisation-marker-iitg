@@ -2,35 +2,171 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How many dichroic mirrors are present in an epifluorescence microscope?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What would be the maximum resolution that can be achieved if a sample is illuminated by green light (514 nm) and observed through an oil immersion objective with numerical aperture of 1.5?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "177 nm",
+        "b": "170 nm",
+        "c": "166 nm",
+        "d": "171 nm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Filipin staining can be used to study the phagocytosis of latex beads by J774A.1 cells. Filipin stains the",
+      "answers": {
+        "a": "Integral proteins of the membranes",
+        "b": "Cytoskeletal proteins",
+        "c": "Cell membrane",
+        "d": "Periplasm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Live cells in cell culture plate can be visualized preferably by",
+      "answers": {
+        "a": "Upright microscope",
+        "b": "Inverted microscope",
+        "c": "Scanning electron microscope",
+        "d": "Confocal microscope"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Kupffer cells are present in",
+      "answers": {
+        "a": "Brain",
+        "b": "Heart",
+        "c": "Blood",
+        "d": "Liver"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In light microscopy, _____ is used to focus light on the specimen.",
+      "answers": {
+        "a": "Objective lens",
+        "b": "Eyepiece",
+        "c": "Condenser",
+        "d": "Phase plate"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an inverted microscope, image is focused by",
+      "answers": {
+        "a": "Moving the stage",
+        "b": "Moving the objective lens",
+        "c": "Adjusting the position of condenser",
+        "d": "Moving the ocular lens"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When cells are stained with trypan blue dye, viable cell will appear",
+      "answers": {
+        "a": "Blue colored",
+        "b": "Dark colored",
+        "c": "Colorless",
+        "d": "Yellow colored"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary role of the dichroic mirror in an epifluorescence microscope?",
+      "answers": {
+        "a": "To block the emitted light",
+        "b": "To allow the excitation light to pass through to the specimen",
+        "c": "To direct the emitted light toward the detector",
+        "d": "To adjust the magnification"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What would be the maximum resolution that can be achieved if a sample is illuminated by green light (514 nm) and observed through an oil immersion objective with a numerical aperture of 1.6?",
+      "answers": {
+        "a": "177.2 nm",
+        "b": "170.5 nm",
+        "c": "160.6 nm",
+        "d": "171.2 nm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
