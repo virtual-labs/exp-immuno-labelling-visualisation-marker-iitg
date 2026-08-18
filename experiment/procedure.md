@@ -1,5 +1,3 @@
-### Procedure
-
 ### 1. Coating
 
 The schematic diagram to explain different steps in preparing coated coverslips is given in Figure 2. These steps are as follows:
