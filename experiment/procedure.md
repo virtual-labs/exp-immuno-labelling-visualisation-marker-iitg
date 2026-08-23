@@ -68,3 +68,9 @@ The schematic diagram to explain different steps in blocking and immunostaining 
 <p align="center" >
 <b>Figure 6: Fluorescence images after immunolocalization.</b>
 </p>
+
+---
+
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/UH-O6EglFes/maxresdefault.jpg)](https://www.youtube.com/watch?v=UH-O6EglFes)
