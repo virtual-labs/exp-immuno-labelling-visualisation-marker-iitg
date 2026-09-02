@@ -73,4 +73,4 @@ The schematic diagram to explain different steps in blocking and immunostaining 
 
 ## Video Demonstration
 
-[![Watch the video](https://img.youtube.com/vi/UH-O6EglFes/maxresdefault.jpg)](https://www.youtube.com/watch?v=UH-O6EglFes)
+[![Watch the video](https://img.youtube.com/vi/JDRtZoo1m_o/maxresdefault.jpg)](https://www.youtube.com/watch?v=JDRtZoo1m_o)
