@@ -1,1 +1,1 @@
-- Immuno-labelling and visualization of marker protein inside cells.
+- Design an experiment using immuno-labelling to visualize marker protein within cells.
