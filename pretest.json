@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the main principle of immunofluorescence microscopy?",
+      "answers": {
+        "a": "Separation of proteins by molecular weight",
+        "b": "Detection of specific proteins using fluorescently labelled antibodies",
+        "c": "Amplification of DNA",
+        "d": "Measurement of protein concentration"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which region of an antibody binds specifically to an antigen?",
+      "answers": {
+        "a": "Fc region",
+        "b": "Fab region",
+        "c": "Hinge region",
+        "d": "Constant region"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which fluorescent dye is commonly used for nuclear staining?",
+      "answers": {
+        "a": "FITC",
+        "b": "TRITC",
+        "c": "DAPI",
+        "d": "Coomassie Brilliant Blue"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a common mounting medium used in immunofluorescence?",
+      "answers": {
+        "a": "Glycerol-based antifade mounting medium",
+        "b": "SDS sample buffer",
+        "c": "Coomassie stain",
+        "d": "Ninhydrin solution"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In indirect immunofluorescence, the fluorescent dye is attached to:",
+      "answers": {
+        "a": "Antigen",
+        "b": "Primary antibody",
+        "c": "Secondary antibody",
+        "d": "Cell membrane"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main purpose of fixation during immunofluorescence staining?",
+      "answers": {
+        "a": "To destroy cellular proteins",
+        "b": "To preserve cellular structure and retain target proteins",
+        "c": "To increase cell proliferation",
+        "d": "To remove antibodies"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which reagent is commonly used for permeabilization of cells?",
+      "answers": {
+        "a": "Triton X-100",
+        "b": "Sodium chloride",
+        "c": "Glucose",
+        "d": "Ethanolamine"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main purpose of blocking in immunofluorescence staining?",
+      "answers": {
+        "a": "To increase antigen expression",
+        "b": "To prevent nonspecific antibody binding",
+        "c": "To destroy the target protein",
+        "d": "To increase cell division"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which microscope is used to visualize fluorescently labelled proteins?",
+      "answers": {
+        "a": "Bright-field microscope",
+        "b": "Fluorescence microscope",
+        "c": "Dissecting microscope",
+        "d": "Electron microscope"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which fluorescent dye commonly produces green fluorescence?",
+      "answers": {
+        "a": "DAPI",
+        "b": "FITC",
+        "c": "TRITC",
+        "d": "Texas Red"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
